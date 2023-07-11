@@ -1,0 +1,11 @@
+pandas
+keras == 2.3.1
+tensorflow == 2.1.0
+numpy
+matplotlib
+sklearn
+requests
+xnat
+pathlib
+flask
+werkzeug

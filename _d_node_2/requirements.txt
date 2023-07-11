@@ -1,0 +1,11 @@
+pandas
+keras == 2.2.4
+tensorflow ==1.14.0
+numpy
+matplotlib
+sklearn
+requests
+xnat
+pathlib
+shutil
+h5py
